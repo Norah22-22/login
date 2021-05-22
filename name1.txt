@@ -1,0 +1,19 @@
+<html>
+<head>
+  <title>login Form</title>
+</head>
+<center>
+<body bgcolor="Grey"
+
+   <div class="login">
+      <h2 class="login-header">login</h2>
+
+       <form>
+           <p><input type="text" placeholder="username"></p>
+           <p><input type="passeword" placeholder="password"></p>
+           <a href="file:///C:/Users/nourh/OneDrive/%D8%B3%D8%B7%D8%AD%20%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8/Name.Pass/name2.html"> log in</a>
+       </form>
+      </div>
+</center>
+</body> 
+</html>
